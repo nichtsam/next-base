@@ -1,5 +1,5 @@
 {
-  "name": "sam-next-blog",
+  "name": "sam-next-base",
   "private": true,
   "scripts": {
     "dev": "next dev",
